@@ -4,9 +4,9 @@
 
 <instance-profile id="in"
                  name="Instance Name"
-                 start-page="튜토리얼.md">
+                 start-page="CNN.md">
 
-    <toc-element topic="튜토리얼.md"/>
+    <toc-element topic="CNN.md"/>
     <toc-element topic="DNN.md"/>
     <toc-element topic="임베디드시스템-개요.md"/>
     <toc-element topic="머신러닝-소개.md"/>
