@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="튜토리얼.md">
+
+    <toc-element topic="튜토리얼.md"/>
+    <toc-element topic="DNN.md"/>
+    <toc-element topic="임베디드시스템-개요.md"/>
+    <toc-element topic="머신러닝-소개.md"/>
+    <toc-element topic="하드웨어-가속-시스템-임베디드.md"/>
+    <toc-element topic="성능-향상법.md"/>
+    <toc-element topic="성능-향상법-2.md"/>
+    <toc-element topic="성능-향상법-3.md"/>
+    <toc-element topic="GPU활용-성능-향상법.md"/>
+    <toc-element topic="tpu.md"/>
+</instance-profile>
