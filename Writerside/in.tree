@@ -16,4 +16,14 @@
     <toc-element topic="성능-향상법-3.md"/>
     <toc-element topic="GPU활용-성능-향상법.md"/>
     <toc-element topic="tpu.md"/>
+    <toc-element topic="논문-squeezenet.md"/>
+    <toc-element topic="논문-channel-pruning.md"/>
+    <toc-element topic="논문-shufflenet.md"/>
+    <toc-element topic="논문-network-pruning.md"/>
+    <toc-element topic="논문-양자화.md"/>
+    <toc-element topic="논문-nullhop.md"/>
+    <toc-element topic="논문-Fast-mono-depth-estimation.md"/>
+    <toc-element topic="논문-DeepX.md"/>
+    <toc-element topic="논문-CNNdroid.md"/>
+    <toc-element topic="논문-RSTensorFlow.md"/>
 </instance-profile>
